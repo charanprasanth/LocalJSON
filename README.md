@@ -5,5 +5,5 @@ Android Application that parses Local JSON file.
   
   <img src="https://github.com/charanprasanth/LocalJSON/blob/master/Screenshot/Screenshot.jpg" height="300"></img>
   
-  For JSON File url [Click here.](shorturl.at/tBQ47)
+  For JSON File url [click here.](shorturl.at/tBQ47)
 
